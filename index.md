@@ -6,6 +6,10 @@ layout: default
 
 A small website for posting small coding projects, related to my work on ancient DNA
 
+A tiny project self-explanatorily called [Diamond Output Parser](https://github.com/jannine-forst/diamond_output_parser):
+- takes diamond.krona html output and pulls out interesting things
+- work in progress!!
+
 
 # Where I work:
 Currently at the [Human Palaeogenomics (HPG) Lab](https://ucschpg.wordpress.com/) at the University of California, Santa Cruz.
