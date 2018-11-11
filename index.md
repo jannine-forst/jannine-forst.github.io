@@ -6,6 +6,7 @@ layout: default
 
 A small website for posting small coding projects, related to my work on ancient DNA
 
+## Progress
 A tiny project self-explanatorily called [Diamond Output Parser](https://github.com/jannine-forst/diamond_output_parser):
 - takes diamond.krona html output and pulls out interesting things
 - work in progress!!
