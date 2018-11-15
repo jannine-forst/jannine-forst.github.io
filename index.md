@@ -12,10 +12,7 @@ A tiny project self-explanatorily called [Diamond Output Parser](https://github.
 - makes a multipage pdf of all the counts/root
 - work in progress!!
 
-E.g.:
-
-![Example Graph](https://github.com/jannine-forst/diamond_output_parser/blob/master/Trial_DMND/DMNDparsed.graphs.outfile.2018.11.15_11-10.pdf)
-
+E.g. [here](https://github.com/jannine-forst/diamond_output_parser/blob/master/Trial_DMND/DMNDparsed.graphs.outfile.2018.11.15_11-10.pdf)
 
 
 # Where I work:
