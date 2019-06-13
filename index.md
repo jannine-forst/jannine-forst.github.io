@@ -16,7 +16,7 @@ E.g. [here](https://github.com/jannine-forst/diamond_output_parser/blob/master/T
 
 
 # Where I work:
-Currently at the [Arc Bio](https://www.arcbio.com/) in DNA-related molecular diagnostics.
+Currently at the [Arc Bio](https://www.arcbio.com/) in DNA-related molecular diagnostics. I used to work in ancient DNA, hence the title.
 
 You can also view my LinkedIn profile [here](https://www.linkedin.com/in/jannine-novak-forst-004b0445/).
 
