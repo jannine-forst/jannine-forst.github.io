@@ -4,9 +4,9 @@ layout: default
 
 # The beginning!
 
-A small website for posting small coding projects, related to my work on ancient DNA
+A small website for posting small coding projects
 
-## Progress
+## Past Projects:
 A tiny project self-explanatorily called [Diamond Output Parser](https://github.com/jannine-forst/diamond_output_parser):
 - takes diamond.krona html output and pulls out interesting things
 - makes a multipage pdf of all the counts/root
@@ -16,7 +16,7 @@ E.g. [here](https://github.com/jannine-forst/diamond_output_parser/blob/master/T
 
 
 # Where I work:
-Currently at the [Human Palaeogenomics (HPG) Lab](https://ucschpg.wordpress.com/) at the University of California, Santa Cruz.
+Currently at the [Arc Bio](https://www.arcbio.com/) in DNA-related molecular diagnostics.
 
 You can also view my LinkedIn profile [here](https://www.linkedin.com/in/jannine-novak-forst-004b0445/).
 
